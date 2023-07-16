@@ -24,4 +24,6 @@ Figure4: Then we will see it is running fake blockchain on my computer i.e local
 
 Figure5: If we click the key icon it will come the above pop up showing the private key <br>
 
+In our code what we need at first to do is connnect it to block chain <br>
+
 
