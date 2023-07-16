@@ -137,6 +137,9 @@ here <br>
 
 To deploy our contract we gonna need the ABI and binary compiled code of our contract <br>
 
+To read from the above two files we need a package called fs <br>
+
+
 
 
 
