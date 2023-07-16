@@ -79,6 +79,9 @@ https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/eth
 
 we can see how many different calls we can make to our node to get different information <br>
 
+### Introduction to Ether.js 
+
+
 
 
 
