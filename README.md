@@ -70,6 +70,7 @@ Figure11: We will copy the address and paste it on ```akrkdeploy.js``` file so t
 
 
 
+![f35](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/a748c902-bb5d-41ee-b005-fdbbb0c51a80)
 
 
 Figure12: By going to this link 
@@ -77,6 +78,7 @@ Figure12: By going to this link
 https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/execution-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false
 
 we can see how many different calls we can make to our node to get different information <br>
+
 
 
 
