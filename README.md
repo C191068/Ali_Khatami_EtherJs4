@@ -108,6 +108,8 @@ before calling the main function <br>
 
 ```const``` is used so that ethers can't be changed <br>
 
+```Remix``` platform does this all behind the scenes <br>
+
 
 
 
