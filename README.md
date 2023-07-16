@@ -54,9 +54,14 @@ Blockchain node run with software and some of them expose an API call <br>
 ![f32](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/79463fc4-548e-477c-8761-bb113434eaa2)
 
 
-If we go to this https://github.com/ethereum/go-ethereum we will see there are instruction sto run our own<br>
+Figure9: If we go to this https://github.com/ethereum/go-ethereum we will see there are instruction sto run our own<br>
 blockchain node for real blockchain like Ethereum <br>
 
+![f33](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/0548e6ef-3e0b-4084-8955-50b7b43f9f8f)
+
+Figure10: If we go to our Ganache application we can see that at top there is RPC server which is the <br>
+
+endpoint of our blockchain node <br>
 
 
 
