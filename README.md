@@ -124,6 +124,9 @@ Figure18: going to ```Ganache``` by clicking to the key icon again we will copy 
 ![f43](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/4bf65b59-ee4a-4969-9455-04a456c9df25)
 Figure20: then we will paste it it here as a parameter <br>
 
+![f44](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/bd4d9580-c8b8-42cc-bdee-75cb2894a4d4)
+
+Figure21: the above two lines of code gives us everything we need to interact with our smart contract <br>
 
 
 
