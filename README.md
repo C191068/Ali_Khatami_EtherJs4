@@ -20,5 +20,8 @@ Figure3: Then we will click ```QuckStart``` <br>
 
 Figure4: Then we will see it is running fake blockchain on my computer i.e locally <br>
 
+![f28](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/91859fee-5059-4078-9fd5-6147247252a3)
+
+Figure5: If we click the key icon it will come the above pop up showing the private key <br>
 
 
