@@ -115,6 +115,17 @@ before calling the main function <br>
 Figure16: Through this code ```const provider = new ethers.providers.JsonRpcProvider("http://127.0.0.1:7545");``` <br>
 our script gonna connect to blockchain <br>
 
+![f41](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/6fb45823-567c-4bd6-a1b9-d54d2ffaa620)
+Figure17: by using this code ```const wallet = new ethers.Wallet()``` we gonnna setup wallet account <br>
+
+![f42](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/95d2e256-b70f-4c09-afcd-76109ccd5246)
+Figure18: going to ```Ganache``` by clicking to the key icon again we will copy the private key address <br>
+
+![f43](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/4bf65b59-ee4a-4969-9455-04a456c9df25)
+Figure20: then we will paste it it here as a parameter <br>
+
+
+
 
 
 
