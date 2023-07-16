@@ -140,6 +140,10 @@ To deploy our contract we gonna need the ABI and binary compiled code of our con
 To read from the above two files we need a package called fs <br>
 
 
+![f46](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/c4deaf1b-ff41-4ae2-ae73-f85fbd7ea0a9)
+
+Figuree23: for that we use this line in the code ```const fs = require("fs-extra");``` <br>
+
 
 
 
