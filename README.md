@@ -130,6 +130,10 @@ Figure21: the above two lines of code gives us everything we need to interact wi
 
 The private key we used is gonna encrypt all of our transactions <br>
 
+![f45](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/f795036b-d066-440d-ae8c-e3d5603ad8c8)
+
+Figure22: As we have now provider and wallet , we gonna grab contractor objects from the two files marked <br>
+here <br>
 
 
 
