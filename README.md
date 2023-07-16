@@ -87,6 +87,9 @@ Ether.js is one of the popular javascript base tool kit that allows us to intera
 
 Figure13: another popular tool is web3.js <br>
 
+![f37](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/3ddc536b-53c8-4d3b-95a1-d5e2c739073e)
+
+Figure14: To add ethers we have to write the av=bove command <br>
 
 
 
