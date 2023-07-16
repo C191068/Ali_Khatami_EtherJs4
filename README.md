@@ -128,6 +128,8 @@ Figure20: then we will paste it it here as a parameter <br>
 
 Figure21: the above two lines of code gives us everything we need to interact with our smart contract <br>
 
+The private key we used is gonna encrypt all of our transactions <br>
+
 
 
 
