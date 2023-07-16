@@ -135,6 +135,10 @@ The private key we used is gonna encrypt all of our transactions <br>
 Figure22: As we have now provider and wallet , we gonna grab contractor objects from the two files marked <br>
 here <br>
 
+To deploy our contract we gonna need the ABI and binary compiled code of our contract <br>
+
+
+
 
 
 
