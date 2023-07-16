@@ -36,5 +36,10 @@ to blockchain behind the scenes <br>
 
 Figure7: by going this way we will click ```add network``` <br>
 
+![f31](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/0d5cd92e-c3a2-42fd-9986-cbd319c8232a)
+
+Figure8: if we click the ```Network``` option here we will see the information of various networks <br>
+
+
 
 
