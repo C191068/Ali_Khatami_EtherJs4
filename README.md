@@ -26,4 +26,10 @@ Figure5: If we click the key icon it will come the above pop up showing the priv
 
 In our code what we need at first to do is connnect it to block chain <br>
 
+![f29](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/4f8a4062-bdd7-4a03-bbe9-efe043ddf8fc)
+
+Figure6: In case of Remix , our smart contract connects to metamask wallet account whicha has connection <br>
+
+to blockchain behind the scenes <br>
+
 
