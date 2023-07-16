@@ -110,6 +110,10 @@ before calling the main function <br>
 
 ```Remix``` platform does this all behind the scenes <br>
 
+![f39](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/b79c4e4f-4f2e-4d96-9bba-c390fc940a06)
+
+Figure16: Through this code ```const provider = new ethers.providers.JsonRpcProvider("http://127.0.0.1:7545");``` <br>
+our script gonna connect to blockchain <br>
 
 
 
