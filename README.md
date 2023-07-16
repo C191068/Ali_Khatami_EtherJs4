@@ -64,6 +64,9 @@ Figure10: If we go to our Ganache application we can see that at top there is RP
 endpoint of our blockchain node <br>
 
 
+![f34](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/ba94d236-b6c5-42a2-a6aa-cbd65ae4699f)
+
+Figure11: We will copy the address and paste it on ```akrkdeploy.js``` file so that we acn connect  <br>
 
 
 
