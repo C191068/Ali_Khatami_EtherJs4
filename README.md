@@ -40,6 +40,14 @@ Figure7: by going this way we will click ```add network``` <br>
 
 Figure8: if we click the ```Network``` option here we will see the information of various networks <br>
 
+All of the above networks have one thing in common and that is ```RPC URL``` <br>
+
+RPC full form is Remote Procedure Call and it stands for a connection to a blockchain node <br>
+that somebody is running <br>
+
+
+
+
 
 
 
