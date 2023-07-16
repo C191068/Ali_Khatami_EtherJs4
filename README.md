@@ -45,6 +45,8 @@ All of the above networks have one thing in common and that is ```RPC URL``` <br
 RPC full form is Remote Procedure Call and it stands for a connection to a blockchain node <br>
 that somebody is running <br>
 
+The RPC URL conncts us to make API calls and to interact with blockchain nodes <br>
+
 
 
 
