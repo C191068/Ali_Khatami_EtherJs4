@@ -144,6 +144,9 @@ To read from the above two files we need a package called fs <br>
 
 Figuree23: for that we use this line in the code ```const fs = require("fs-extra");``` <br>
 
+![f47](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/1b616476-c132-43de-9197-2fde8d2190b6)
+
+Figure24: to add ```fs``` package perfectly we give the above command and see it on athe pacakge.json file <br>
 
 
 
