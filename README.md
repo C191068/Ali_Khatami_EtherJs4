@@ -32,4 +32,9 @@ Figure6: In case of Remix , our smart contract connects to metamask wallet accou
 
 to blockchain behind the scenes <br>
 
+![f30](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/8110cd63-339a-45c6-9fa2-f1d48bc5a2bd)
+
+Figure7: by going this way we will click ```add network``` <br>
+
+
 
