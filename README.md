@@ -47,6 +47,8 @@ that somebody is running <br>
 
 The RPC URL conncts us to make API calls and to interact with blockchain nodes <br>
 
+Blockchain node run with software and some of them expose an API call <br>
+
 
 
 
