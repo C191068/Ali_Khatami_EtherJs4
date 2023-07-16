@@ -101,6 +101,8 @@ const ethers = require("ethers");
 
 ```
 
+Now we have ethers here we can create provider object within our main function <br>
+
 
 
 
