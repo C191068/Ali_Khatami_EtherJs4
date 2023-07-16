@@ -92,6 +92,15 @@ Figure13: another popular tool is web3.js <br>
 Figure14: To add ethers we have to write the av=bove command <br>
 
 
+![f38](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/3cb43158-d7f2-45a1-84da-2496aedbd8c9)
+
+Figure15: To import ethers to our deploy.js file we write the above code <br>
+
+```
+const ethers = require("ethers");
+
+```
+
 
 
 
