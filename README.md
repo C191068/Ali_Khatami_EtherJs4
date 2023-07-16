@@ -16,6 +16,9 @@ Figure2: Then we will click ```install``` <br>
 
 Figure3: Then we will click ```QuckStart``` <br>
 
+![f27](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/922ba5d7-95fc-49e5-8b0a-77b9f529ceef)
+
+Figure4: Then we will see it is running fake blockchain on my computer i.e locally <br>
 
 
 
