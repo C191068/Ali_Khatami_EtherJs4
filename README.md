@@ -103,6 +103,9 @@ const ethers = require("ethers");
 
 Now we have ethers here we can create provider object within our main function <br>
 
+The reason we write it outside of the main function because we gonna bring all packages to script <br>
+before calling the main function <br>
+
 
 
 
