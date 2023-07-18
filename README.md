@@ -251,7 +251,7 @@ deploying this contract <br>
 Figure29: to output a message we use the above line of code <br>
 
 ![b6](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/fa79a1fd-edcd-48db-ab63-3582d52304cb)
-Figure30: to perfectly deploy the contract with ethers we use the bove line of code <br>
+Figure30: the above line of code returns a contract object  <br>
 
 ```await``` keyword is used because we need to tell this code to wait untl the code is deployed <br>
 
