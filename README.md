@@ -240,5 +240,12 @@ In ethers ```contract factory``` is just an object that can be used to deploy co
 
 Figure28: for that we write the above line of code where we pass abi ,binary and wallet <br>
 
+Here abi is used to interact with the contract <br>
+
+binary is used as it is the main compiled code in our wallet so that we have a private key we can use to sign <br>
+
+deploying this contract <br>
+
+
 
 
