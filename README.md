@@ -229,6 +229,9 @@ main()
 
 here ```utf8``` is used to do encoding of the file ```akrkSimplestorage.abi``` <br>
 
+![b3](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/e6c86476-f7fc-4159-9020-160e37d49d60)
+
+Figure27: to get the binary file we write the above line of code <br>
 
 
 
