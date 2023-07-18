@@ -235,6 +235,10 @@ Figure27: to get the binary file we write the above line of code <br>
 
 In ethers ```contract factory``` is just an object that can be used to deploy contracts  <br>
 
+![b4](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/bdd5a039-c558-46ef-a928-574ec0f857d4)
+
+
+Figure28: for that we write the above line of code where we pass abi ,binary and wallet <br>
 
 
 
