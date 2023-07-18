@@ -233,6 +233,8 @@ here ```utf8``` is used to do encoding of the file ```akrkSimplestorage.abi``` <
 
 Figure27: to get the binary file we write the above line of code <br>
 
+In ethers ```contract factory``` is just an object that can be used to deploy contracts  <br>
+
 
 
 
