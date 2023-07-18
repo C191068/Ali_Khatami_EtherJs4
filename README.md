@@ -153,6 +153,11 @@ Figure24: to add ```fs``` package perfectly we give the above command and see it
 Figure25: to get the abi we write the above code here ```readFileSync()``` means it gonna read synchronously<br>
 from the file <br>
 
+![b2](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/ee9f1bf5-0819-4d3a-88dc-cd5a2a2a58c3)
+
+figure26: here if we put our mouse curser on the function ```readFileSync()``` the above information pops up<br>
+
+it gonna be very helpful <br>
 
 
 
