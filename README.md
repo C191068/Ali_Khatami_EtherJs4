@@ -148,6 +148,10 @@ Figuree23: for that we use this line in the code ```const fs = require("fs-extra
 
 Figure24: to add ```fs``` package perfectly we give the above command and see it on athe pacakge.json file <br>
 
+![b1](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/4719cb1c-ab30-4c30-a519-1b30e38242cb)
+
+Figure25: to get the abi we write the above code here ```readFileSync()``` means it gonna read synchronously<br>
+from the file <br>
 
 
 
