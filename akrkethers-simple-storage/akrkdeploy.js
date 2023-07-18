@@ -1,14 +1,11 @@
-const ethers = require("ethers");
-
+const { ethers } = require("ethers");
 const fs = require("fs-extra");
 
 async function main() {
-  const provider = new ethers.providers.JsonRpcProvider(
-    "http://127.0.0.1:7545"
-  );
+  const provider = ethers.getDefaultProvider("http://127.0.0.1:7545");
 
   const wallet = new ethers.Wallet(
-    "0x1cd5a540d56cb150d4b870ab0cb624b1181b0885aa0e12ea2e46ca74515b5b33",
+    "0xdf7fe0ce6c0c9ef5d2987ed2ec597ec2110164e4f01a5729263ff0ac1119da58",
     provider
   );
 
@@ -22,12 +19,11 @@ async function main() {
     "utf8"
   );
 
-  const contractfactory = new ethers.ContractFactory(abi, binary, wallet);
-  console.log("Executing,please keep patience...");
+  const contractFactory = new ethers.ContractFactory(abi, binary, wallet);
+  console.log("Executing, please be patient...");
   const contract = await contractFactory.deploy();
   console.log(contract);
 }
-// http://127.0.0.1:7545
 
 main()
   .then(() => process.exit(0))
