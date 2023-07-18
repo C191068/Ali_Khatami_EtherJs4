@@ -313,5 +313,8 @@ figure34: here we can see information of the blocks <br>
 ![b11](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/5fe8f101-4ca1-4dd8-a005-38e031335b02)
 Figure35: here we can see the whole detail of transaction <br>
 
+Thus we have successfully smart contract on local machine <br>
+
+
 
 
