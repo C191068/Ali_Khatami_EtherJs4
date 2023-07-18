@@ -304,7 +304,7 @@ is successfully deployed <br>
 
 ![b9](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/6eb052f3-c43b-4bf5-a155-54a794e4b6fc)
 
-Figure33: here we see here single transaction occured <br>
+Figure33: going to ganache  here we see here single transaction occured <br>
 
 ![b10](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/a8a516ee-8083-47dc-9990-be7d6e19ee29)
 
