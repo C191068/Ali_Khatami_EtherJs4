@@ -153,11 +153,82 @@ Figure24: to add ```fs``` package perfectly we give the above command and see it
 Figure25: to get the abi we write the above code here ```readFileSync()``` means it gonna read synchronously<br>
 from the file <br>
 
+The code is given below of our ```akrkdeploy.js``` :
+
+
+
+```javascript
+
+const ethers = require("ethers");
+
+const fs = require("fs-extra");
+
+async function main() {
+  const provider = new ethers.providers.JsonRpcProvider(
+    "http://127.0.0.1:7545"
+  );
+
+const wallet = new ethers.Wallet(
+    "0x1cd5a540d56cb150d4b870ab0cb624b1181b0885aa0e12ea2e46ca74515b5b33",
+    provider
+  );
+
+
+  const abi = fs.readFileSync();
+}
+// http://127.0.0.1:7545
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+```
+
+
+
 ![b2](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/ee9f1bf5-0819-4d3a-88dc-cd5a2a2a58c3)
 
 figure26: here if we put our mouse curser on the function ```readFileSync()``` the above information pops up<br>
 
 it gonna be very helpful <br>
+
+to define the path we made the following changes in the code below:
+
+
+```javascript
+
+const ethers = require("ethers");
+
+const fs = require("fs-extra");
+
+async function main() {
+  const provider = new ethers.providers.JsonRpcProvider(
+    "http://127.0.0.1:7545"
+  );
+
+const wallet = new ethers.Wallet(
+    "0x1cd5a540d56cb150d4b870ab0cb624b1181b0885aa0e12ea2e46ca74515b5b33",
+    provider
+  );
+
+
+  const abi = fs.readFileSync("./akrkSimplestorage_sol_akrkSimplestorage_sol_akrkSimplestorage.abi","utf8");
+}
+// http://127.0.0.1:7545
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+
+```
+
+here ```utf8``` is used to do encoding of the file ```akrkSimplestorage.abi``` <br>
+
 
 
 
