@@ -246,6 +246,9 @@ binary is used as it is the main compiled code in our wallet so that we have a p
 
 deploying this contract <br>
 
+![b5](https://github.com/C191068/Ali_Khatami_EtherJs4/assets/89090776/a2d0340e-fb79-4368-975b-a6b98b869dc8)
+
+Figure29: to output a message we use the above line of code <br>
 
 
 
